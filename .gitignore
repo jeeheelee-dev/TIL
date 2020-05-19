@@ -1,6 +1,7 @@
 *.gem
 .bundle
 Gemfile.lock
+.vendor
 
 # Jekyll 이 생성한 메타 데이터 무시
 _site/
