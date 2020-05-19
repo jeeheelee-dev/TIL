@@ -1,0 +1,28 @@
+title: Learning, Thoughts, Stories and Ideas.
+description: I'm crazy about making a better platform! Something like making people and tech much closer, making problem much better and easier.
+
+url: https://jeeheelee-dev.github.io
+baseurl: "/TIL"
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+markdown: kramdown
+highlighter: rouge
+plugins: [jekyll-paginate]
+paginate: 5
+
+navigation:
+  - title: Home
+    url: /index.html
+  - title: About
+    url: /about
+  - title: Contact
+    url: /contact
+
+social:
+  github: https://github.com/jeeheelee-dev
+  twitter:
+  facebook:
+  email: jeehee.lee.dev@gmail.com
+
+google_analytics: "UA-58263416-1"
